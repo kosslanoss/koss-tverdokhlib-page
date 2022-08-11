@@ -1,0 +1,20 @@
+@import 'vars';
+@import 'fonts';
+@import 'reset';
+@import 'global';
+@import 'libs';
+
+@import './components/header';
+@import './components/footer';
+@import './index-page/hero';
+@import './index-page/expertise';
+@import './index-page/hover';
+@import './index-page/motion';
+@import './index-page/navbar';
+@import './index-page/popup';
+@import './index-page/portfolio';
+
+
+
+
+@import 'media';
